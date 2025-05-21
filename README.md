@@ -1,4 +1,4 @@
-# Herbal Bounty
+# Herbal Remedy
 
 A comprehensive web application for exploring and learning about medicinal herbs, featuring a detailed herb database, blog posts, and ebooks.
 
@@ -25,8 +25,8 @@ A comprehensive web application for exploring and learning about medicinal herbs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/artifaks/Wellnessisgolden.git
-   cd Wellnessisgolden
+   git clone https://github.com/artifaks/herbalremedy.git
+   cd herbalremedy
    ```
 
 2. Install dependencies:
